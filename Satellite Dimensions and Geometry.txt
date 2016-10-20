@@ -1,0 +1,32 @@
+Everything is in mm or mm^2
+
+Mass of satellite:
+12kg
+
+Center of Mass, measured from positive faces:
++x: 192.5
++y: 111.9
++z: 51.79
+
+Dimensions:
+top/bottom panel
+   width: 226.3
+   length: 353
+sides
+   height: 100
+   length: 353
+front
+   height: 100
+   width: 226.3
+large fins
+   length: 318.5
+   width: 207.3
+   area: 63385.05
+small fins
+   length: 318.5
+   height: 81
+   area: 25798.5
+
+Moment of Inertia
+
+
