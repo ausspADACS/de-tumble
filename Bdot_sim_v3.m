@@ -29,7 +29,7 @@ ang_mom = zeros(sim_time/time_step,3);
 ang_accel = zeros(sim_time/time_step,3);
 meas_quat = zeros(sim_time/time_step,4);
 
-ang_vel(1,:) = [3 -4 3];%Initial angular velocity at deployment, dps
+ang_vel(1,:) = [18 -18 18];%Initial angular velocity at deployment, dps
 meas_quat(1,:) = [.707 0 0 .707]; %Initial attitude
 
 orb_alt = 550; %mean altitude of orbit, km
